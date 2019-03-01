@@ -1,0 +1,120 @@
+body {background: #FFFF74}
+a	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none}
+:link {color: ##000080}
+:active {color: #ff0000}
+:hover {color: #000099}
+:visited {color: #800080}
+a.img	{
+	text-decoration: none;
+	margin-top:0pt;
+	margin-right:0cm;
+	margin-bottom:0pt;
+	margin-left:0cm;
+	font-size:8pt;
+	font-family:Arial;
+	font-weight:Normal;
+	font-style:Normal}
+.img:link {color: #858585}
+.img:active {color: #ff0000}
+.img:hover {color: MAROON;font-weight:bold}
+.img:visited {color: #800080}
+.h3	{
+	font-size:12pt;
+	font-family:Arial Narrow;
+	color:blue;
+	font-weight:bold;
+	font-style:normal}
+.cab1	{
+	margin-top:2pt;
+	margin-bottom:0pt;
+	font-size:16pt;
+	font-family:Times New Roman;
+	font-weight:normal}
+.cab1:link {color: BLUE}
+.cab1:active {color: BLUE; font-weight:Bold; font-style:italic; font-size:20pt}
+.cab1:hover {color: RED}
+.cab2	{
+	margin-top:0pt;
+	margin-bottom:0pt;
+	font-size:12pt;
+	font-family:Times New Roman;
+	font-weight:Normal}
+.cab2:link {color: BLUE}
+.cab2:hover {color: RED}
+.pie1	{
+	margin-top:2pt;
+	margin-bottom:0pt;
+	font-size:8pt;
+	font-family:Times New Roman;
+	font-weight:Bold}
+.pie1:link {color: WHITE}
+.pie1:active {color: WHITE}
+.pie1:hover {color: YELLOW}
+.pie1:visited {color: WHITE}
+h1	{
+	margin-top:0pt;
+	margin-right:0cm;
+	margin-bottom:0pt;
+	margin-left:0cm;
+	font-size:32pt;
+	font-family:Pristina;
+	color:#858585;
+	font-weight:200;
+	font-style:normal}
+h2	{
+	margin-top:5pt;
+	margin-right:0cm;
+	margin-bottom:0pt;
+	margin-left:0cm;
+	font-size:14pt;
+	font-family:Arial;
+	color:#858585;
+	font-weight:bold;
+	font-style:italic}
+h3	{
+	margin-top:2pt;
+	margin-right:2pt;
+	margin-bottom:2pt;
+	margin-left:2pt;
+	font-size:12pt;
+	font-family:Arial Narrow;
+	color:RED;
+	font-weight:normal;
+	font-style:normal}
+h4	{
+	margin-top:0pt;
+	margin-right:0cm;
+	margin-bottom:0pt;
+	margin-left:0cm;
+	font-size:18pt;
+	font-family:Arial Narrow;
+	color:NAVY;
+	font-weight:bold;
+	font-style:normal}
+p	{
+	margin-top:0pt;
+	margin-right:0cm;
+	margin-bottom:0pt;
+	margin-left:0cm;
+	font-size:8pt;
+	font-family:Arial;
+	color:#858585;
+	font-weight:Normal;
+	font-style:Normal}
+.pie1	{
+	margin-top:2pt;
+	margin-bottom:0pt;
+	font-size:8pt;
+	color:WHITE;
+	font-family:Times New Roman;
+	font-weight:Normal}
+.pie2	{
+	margin-top:2pt;
+	margin-bottom:0pt;
+	font-size:10pt;
+	color:black;
+	font-family:Times New Roman;
+	font-weight:bold}
